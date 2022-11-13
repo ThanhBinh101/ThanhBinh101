@@ -7,4 +7,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently study at HCMUT
 - 🌱 I’m currently learning Computer Science
+- (UWU) Personality: funny
 - ⚡ Fun fact: I love Pinku and Tesla
