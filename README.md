@@ -1,5 +1,6 @@
-### おはよう皆さん 👋
+`#red` ### おはよう皆さん 👋
 
+- 🌻 My status: Dead insside Physic
 - 🔭 I’m currently study at HCMUT
 - 🌱 I’m currently learning Computer Science
 - :smile: Personality: funny
